@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\_app.js -> @tsparticles/react\":{\"id\":\"pages\\\\_app.js -> @tsparticles/react\",\"files\":[\"static/chunks/node_modules_tsparticles_react_dist_index_js.js\"]}}"
